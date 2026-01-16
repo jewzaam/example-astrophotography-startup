@@ -1,0 +1,10 @@
+{
+  "skip_if_running": "NINA.exe",
+  "programs": [
+    {
+      "path": "C:\\Program Files\\N.I.N.A. - Nighttime Imaging 'N' Astronomy\\NINA.exe",
+      "args": ["-s", "C:\\Path-To-Your-Sequence\\DEFAULT.json", "-r"],
+      "foreground": false
+    }
+  ]
+}
